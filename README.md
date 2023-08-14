@@ -15,5 +15,7 @@ My data portfolio for data analyst role.
 - Essential Python for Data Analyst
 - Dashboard
 
+You can find me on....
+
 ## What are my project idea?
 
